@@ -1,0 +1,4 @@
+// a comment
+// c := (a + b + [0.3, 0.4])
+// pow(c, 3)
+c := cos(sin(1))
